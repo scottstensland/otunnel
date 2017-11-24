@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/ooclab/otunnel/client"
 	"github.com/ooclab/otunnel/server"
+	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )
 

@@ -3,7 +3,7 @@ package link
 import (
 	"encoding/json"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/ooclab/es/session"
 	"github.com/ooclab/es/tunnel"
 )

@@ -5,11 +5,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/ooclab/es"
 	"github.com/ooclab/es/ecrypt"
 	"github.com/ooclab/es/link"
 	"github.com/ooclab/otunnel/util"
+	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )
 

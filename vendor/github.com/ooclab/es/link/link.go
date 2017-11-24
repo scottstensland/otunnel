@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/ooclab/es"
 	"github.com/ooclab/es/session"
 	"github.com/ooclab/es/tunnel"

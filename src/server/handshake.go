@@ -1,9 +1,9 @@
 package server
 
 import (
-	"github.com/Sirupsen/logrus"
 	"github.com/ooclab/es"
 	pjson "github.com/ooclab/otunnel/proto/json"
+	"github.com/sirupsen/logrus"
 )
 
 func handshake(conn es.Conn) error {
